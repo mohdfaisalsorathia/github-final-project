@@ -1,0 +1,13 @@
+$ git branch -a -v
+
+  bug-fix-typo                245e4b5 Fix typo: add missing colon after Output
+* main                        245e4b5 Fix typo: add missing colon after Output
+  remotes/origin/HEAD         -> origin/main
+  remotes/origin/bug-fix-typo 245e4b5 Fix typo: add missing colon after Output
+  remotes/origin/main         245e4b5 Fix typo: add missing colon after Output
+
+Branch Summary:
+- main (active branch, up to date)
+- bug-fix-typo (merged into main)
+- remotes/origin/main (remote tracking branch)
+- remotes/origin/bug-fix-typo (remote tracking branch)
